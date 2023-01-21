@@ -102,7 +102,7 @@ input:checked {
 }
 
 @media (max-width: 570px) {
-  button div {
-    display: nome;
+  button span {
+    display: none;
   }
 }
