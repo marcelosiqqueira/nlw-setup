@@ -33,9 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habit é um app para ajudar a rastrear os hábitos. 💡
 
+- [Visite o projeto online] (https://marcelosiqqueira.github.io/nlw-setup/)
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/JzdUc5ruyTeF1opDnvCk14/Habits-(e)-(Community)?node-id=75%3A567&t=Ym4zkjouZLs3xyan-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/JzdUc5ruyTeF1opDnvCk14/Habits-(e)-(Community)?node-id=75%3A567&t=Ym4zkjouZLs3xyan-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
